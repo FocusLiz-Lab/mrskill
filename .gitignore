@@ -1,0 +1,15 @@
+.work/
+book/
+youtube/
+X/
+X合并/
+skillhub-package/
+*.zip
+*.pdf
+*.mp4
+*.mp3
+*.wav
+*.m4a
+*.env
+*.key
+cookies.txt

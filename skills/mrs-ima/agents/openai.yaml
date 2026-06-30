@@ -1,0 +1,4 @@
+interface:
+  display_name: "MRS IMA Search"
+  short_description: "Search Mel Robbins IMA knowledge base"
+  default_prompt: "Use $mrs-ima to search and summarize Mel Robbins podcast materials from IMA."

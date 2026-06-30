@@ -1,0 +1,4 @@
+interface:
+  display_name: "MRS Content"
+  short_description: "Create content from podcast insights"
+  default_prompt: "Use $mrs-content to turn Mel Robbins podcast themes into content ideas."

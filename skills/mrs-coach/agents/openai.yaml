@@ -1,0 +1,4 @@
+interface:
+  display_name: "MRS Coach"
+  short_description: "Coach reflection and next actions"
+  default_prompt: "Use $mrs-coach to diagnose a personal stuck point and choose the next action."

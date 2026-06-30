@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mel Robbins Router"
+  short_description: "Route Mel Robbins podcast workflows"
+  default_prompt: "Use $mrs to choose the right Mel Robbins workflow for learning, action, coaching, content, or IMA search."

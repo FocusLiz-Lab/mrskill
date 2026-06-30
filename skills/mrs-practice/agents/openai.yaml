@@ -1,0 +1,4 @@
+interface:
+  display_name: "MRS Practice"
+  short_description: "Turn ideas into daily action drills"
+  default_prompt: "Use $mrs-practice to turn a Mel Robbins idea into a 7-day action practice."

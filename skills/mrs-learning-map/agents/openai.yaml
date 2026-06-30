@@ -1,0 +1,4 @@
+interface:
+  display_name: "MRS Learning Map"
+  short_description: "Plan learning paths from Mel Robbins materials"
+  default_prompt: "Use $mrs-learning-map to build a study path through Mel Robbins podcast topics."
