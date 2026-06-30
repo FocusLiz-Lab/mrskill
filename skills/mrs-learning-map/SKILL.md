@@ -1,7 +1,7 @@
 ---
 name: mrs-learning-map
 description: |
-  Build Mel Robbins learning paths with default IMA knowledge-base grounding. Use when the user invokes $mrs-learning-map or asks where to start, how to study The Mel Robbins Podcast, how to learn the 5 Second Rule, Let Them Theory, High 5 Habit, confidence, motivation, anxiety, relationships, habits, or how to turn the knowledge base into a structured learning sequence. By default, use the IMA knowledge base named "Mel Robbins 知识库 | 播客访谈".
+  Build Mel Robbins learning paths with default IMA knowledge-base grounding. Use when the user invokes $mrs-learning-map or asks where to start, how to study The Mel Robbins Podcast, how to learn the 5 Second Rule, Let Them Theory, High 5 Habit, confidence, motivation, anxiety, relationships, habits, or how to turn the knowledge base into a structured learning sequence. By default, use the IMA knowledge base named "MelRobbins 知识库 | 自我改变".
 ---
 
 # mrs-learning-map
@@ -34,7 +34,7 @@ Build a practical learning path from Mel Robbins podcast and related materials.
 
 ## Quality Bar
 
-- Default to `Mel Robbins 知识库 | 播客访谈`.
+- Default to `MelRobbins 知识库 | 自我改变`.
 - Prefer source-grounded episode/theme names from IMA over memory.
 - Do not invent episode titles, dates, guest names, or direct quotes.
 - Separate "IMA evidence" from "learning design inference".

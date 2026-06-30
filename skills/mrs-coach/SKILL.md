@@ -1,7 +1,7 @@
 ---
 name: mrs-coach
 description: |
-  Mel Robbins-style coaching reflection workflow with default IMA knowledge-base grounding. Use when the user invokes $mrs-coach or describes procrastination, low confidence, self-doubt, anxiety, overwhelm, people pleasing, boundaries, relationship stress, life reset decisions, motivation problems, or asks for coach-like questions and next actions based on Mel Robbins podcast materials. By default, use the IMA knowledge base named "Mel Robbins 知识库 | 播客访谈".
+  Mel Robbins-style coaching reflection workflow with default IMA knowledge-base grounding. Use when the user invokes $mrs-coach or describes procrastination, low confidence, self-doubt, anxiety, overwhelm, people pleasing, boundaries, relationship stress, life reset decisions, motivation problems, or asks for coach-like questions and next actions based on Mel Robbins podcast materials. By default, use the IMA knowledge base named "MelRobbins 知识库 | 自我改变".
 ---
 
 # mrs-coach

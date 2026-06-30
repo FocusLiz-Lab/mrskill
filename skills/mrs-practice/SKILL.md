@@ -1,7 +1,7 @@
 ---
 name: mrs-practice
 description: |
-  Turn Mel Robbins podcast ideas into concrete action drills with default IMA knowledge-base grounding. Use when the user invokes $mrs-practice or asks for exercises, habit plans, 5 Second Rule practice, confidence reps, anti-procrastination drills, morning routines, Let Them boundary practice, anxiety coping actions, or 7/14/30-day behavior change plans. By default, use the IMA knowledge base named "Mel Robbins 知识库 | 播客访谈".
+  Turn Mel Robbins podcast ideas into concrete action drills with default IMA knowledge-base grounding. Use when the user invokes $mrs-practice or asks for exercises, habit plans, 5 Second Rule practice, confidence reps, anti-procrastination drills, morning routines, Let Them boundary practice, anxiety coping actions, or 7/14/30-day behavior change plans. By default, use the IMA knowledge base named "MelRobbins 知识库 | 自我改变".
 ---
 
 # mrs-practice

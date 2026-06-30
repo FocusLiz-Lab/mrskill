@@ -3,7 +3,7 @@
 Default knowledge base:
 
 ```text
-Mel Robbins 知识库 | 播客访谈
+MelRobbins 知识库 | 自我改变
 ```
 
 ## Query Patterns

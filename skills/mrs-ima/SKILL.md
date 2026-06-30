@@ -1,7 +1,7 @@
 ---
 name: mrs-ima
 description: |
-  Compatibility entry for IMA retrieval with Mel Robbins podcast workflows. Use when the user explicitly invokes $mrs-ima or asks to search, read, cite, verify, or summarize Mel Robbins podcast interviews, books, tweets, or notes from IMA. This skill uses the default IMA knowledge base named "Mel Robbins 知识库 | 播客访谈".
+  Compatibility entry for IMA retrieval with Mel Robbins podcast workflows. Use when the user explicitly invokes $mrs-ima or asks to search, read, cite, verify, or summarize Mel Robbins podcast interviews, books, tweets, or notes from IMA. This skill uses the default IMA knowledge base named "MelRobbins 知识库 | 自我改变".
 ---
 
 # mrs-ima
@@ -11,7 +11,7 @@ Use this skill as a thin compatibility entry for users who explicitly ask for IM
 Default IMA knowledge base:
 
 ```text
-Mel Robbins 知识库 | 播客访谈
+MelRobbins 知识库 | 自我改变
 ```
 
 For the actual workflow, follow `$mrs`:

@@ -1,7 +1,7 @@
 ---
 name: mrs
 description: |
-  Mel Robbins podcast interview skill toolbox main router with default IMA knowledge-base grounding. Use when the user asks about Mel Robbins, The Mel Robbins Podcast, the 5 Second Rule, Let Them Theory, High 5 Habit, motivation, procrastination, confidence, anxiety, emotional healing, relationships, habits, life reset plans, learning paths, practice drills, coaching reflection, content ideas, source search, or Mel Robbins-style action diagnosis. By default, use the IMA knowledge base named "Mel Robbins 知识库 | 播客访谈". Triggers include $mrs, /mrs, Mel Robbins, MelRobbins, 梅尔罗宾斯, 5秒法则, Let Them, 行动力, 拖延, 自信, 情绪疗愈, 关系, 学习地图, and 播客访谈.
+  Mel Robbins podcast interview skill toolbox main router with default IMA knowledge-base grounding. Use when the user asks about Mel Robbins, The Mel Robbins Podcast, the 5 Second Rule, Let Them Theory, High 5 Habit, motivation, procrastination, confidence, anxiety, emotional healing, relationships, habits, life reset plans, learning paths, practice drills, coaching reflection, content ideas, source search, or Mel Robbins-style action diagnosis. By default, use the IMA knowledge base named "MelRobbins 知识库 | 自我改变". Triggers include $mrs, /mrs, Mel Robbins, MelRobbins, 梅尔罗宾斯, 5秒法则, Let Them, 行动力, 拖延, 自信, 情绪疗愈, 关系, 学习地图, and 播客访谈.
 ---
 
 # mrs
@@ -13,7 +13,7 @@ Act as the main router for the Mel Robbins skill toolbox. Identify the user's in
 All workflow skills default to:
 
 ```text
-Mel Robbins 知识库 | 播客访谈
+MelRobbins 知识库 | 自我改变
 ```
 
 Users do not need to mention this knowledge-base name. If they explicitly name another IMA knowledge base, use that name instead.

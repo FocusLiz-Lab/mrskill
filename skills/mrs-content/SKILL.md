@@ -1,7 +1,7 @@
 ---
 name: mrs-content
 description: |
-  Create content assets from Mel Robbins podcast themes with default IMA knowledge-base grounding. Use when the user invokes $mrs-content or asks for short video ideas, hooks, scripts, newsletters, carousels, summaries, episode takeaways, quote-safe paraphrases, topic clusters, or content calendars based on Mel Robbins podcast interviews and self-change themes. By default, use the IMA knowledge base named "Mel Robbins 知识库 | 播客访谈".
+  Create content assets from Mel Robbins podcast themes with default IMA knowledge-base grounding. Use when the user invokes $mrs-content or asks for short video ideas, hooks, scripts, newsletters, carousels, summaries, episode takeaways, quote-safe paraphrases, topic clusters, or content calendars based on Mel Robbins podcast interviews and self-change themes. By default, use the IMA knowledge base named "MelRobbins 知识库 | 自我改变".
 ---
 
 # mrs-content

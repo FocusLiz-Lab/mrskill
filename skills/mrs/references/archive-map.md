@@ -5,7 +5,7 @@ Use this map only to orient IMA search and workflow routing. Do not treat local 
 ## Default Knowledge Base
 
 ```text
-Mel Robbins 知识库 | 播客访谈
+MelRobbins 知识库 | 自我改变
 ```
 
 ## Main Topic Areas
