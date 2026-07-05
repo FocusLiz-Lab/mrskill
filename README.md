@@ -50,7 +50,7 @@ MelRobbins 知识库 | 自我改变
 
 ### 加入 / 访问知识库
 
-扫描下面的二维码，加入或访问对应知识库：
+扫码获取知识库：
 
 ![知识库二维码](docs/knowledge-base-qrcode.png)
 
