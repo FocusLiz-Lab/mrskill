@@ -13,3 +13,5 @@ skillhub-package/
 *.env
 *.key
 cookies.txt
+__pycache__/
+*.pyc
