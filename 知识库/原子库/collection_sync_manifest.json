@@ -1,0 +1,55 @@
+{
+  "extraction": "ckw-collected-semantic-v1",
+  "sources": {
+    "https://www.youtube.com/watch?v=wo_VTU4pxrU": {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230517 USC毕业典礼上Kendall Robbins演唱国歌，堪称史上最佳.md",
+      "sha256": "238857b4caf9b0ec9afcf321cbfdbe3304b7a362aac9b8da520f3bee2a00e46d",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=R8UpO9mMu5M": {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250206 如何创造你想要的生活：来自幸福研究第一人的启示.md",
+      "sha256": "78813e3f02605b47824e7e65199b26d9b61cb9340cd10da3e145f59d3ccb9ae8",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=QIqaJtF5g8k": {
+      "source_path": "youtube_transcript/01 行动力与自我改变/261026 还不算晚：改变你今年余下时间的5个转变 - Ed Mylett.md",
+      "sha256": "c33f5e344c83da525410cfad083a54a5c424d00853715c550766bc1b80bca310",
+      "atoms": 19
+    },
+    "https://www.youtube.com/watch?v=MbN_96MWKek": {
+      "source_path": "youtube_transcript/01 行动力与自我改变/261105 专注于自己：在 2026 年结束前做这件事，帮你重回正轨——埃里克·托马斯.md",
+      "sha256": "1f206d169444be9e59f2c5b0057966fb5ade64ac06d233ea16bf19a529f57395",
+      "atoms": 10
+    },
+    "https://www.youtube.com/watch?v=LUegw_zKVxc": {
+      "source_path": "youtube_transcript/01 行动力与自我改变/261114 你的医生可能没告诉你：情绪低落、长痘、体重上涨和焦虑的真正原因.md",
+      "sha256": "b912a22aad7fa51b2e25e1240dbad135d8f1723d3cfd43326b6c848ea2cc21bc",
+      "atoms": 29
+    },
+    "https://www.youtube.com/watch?v=Wvzo_LdFFTA": {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/261029 你在对的人身边的3个信号，以及你只是在对的关系里将就的迹象（最佳恋爱建议）.md",
+      "sha256": "128dfcf54c4a16f9e64093332da164dff50ec55b9582dd62bb93aa8df8b8049c",
+      "atoms": 37
+    },
+    "https://www.youtube.com/watch?v=aSBVMA28RHw": {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/261102 女儿对我说当妈妈最大的失误，直白得让人心碎(我最后悔的事).md",
+      "sha256": "27033581899ed6d8cda7660532b7269a1d8d192322c01ea3b832c19c76668fa0",
+      "atoms": 21
+    },
+    "https://www.youtube.com/watch?v=DJat2GMfVeU": {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/261107 别再随叫随到，你的人生会彻底改变 - Eric Thomas.md",
+      "sha256": "426b709051c23503a1827e884e5003725ee259a8475f042227bc4ddaecf78b65",
+      "atoms": 25
+    },
+    "https://www.youtube.com/watch?v=x6fJdde1NOM": {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/261109 你的人生在做什么？一位89岁老人给你的最佳建议.md",
+      "sha256": "1adb44a3d1cc8e3d6fb2dd2c623b3256e10be1c1b0f6ae76dc2d289e408fcf75",
+      "atoms": 16
+    },
+    "https://www.youtube.com/watch?v=M5K5N-QZIx8": {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/261112 你一生中最该听的女性健康建议.md",
+      "sha256": "5c9ff9e638aeee0f708d9f8164bbb60b62dca3f91dedc798c2711f95cd777b03",
+      "atoms": 22
+    }
+  }
+}
